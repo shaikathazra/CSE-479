@@ -1,0 +1,35 @@
+body {
+    background-image: url("./silverware.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+header{
+    text-align: center;
+    color: darkgoldenrod;
+    font-size: 32px;
+    background-color: beige;
+    
+}
+img{
+    padding-top: 20px;
+    
+}
+h4{
+    font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    color: darkgoldenrod;
+    background-color: beige;
+    font-size: 24px;
+    letter-spacing: 0.25em;
+    display: inline-block;
+    padding: 0.1em 0.3em;
+    background-color: #F0F0F0;
+}
+a{
+    color: darkgoldenrod;
+}
+footer{
+    text-align: center;
+}
+ul {
+    list-style-image: url("./pie-icon.png");
+}
